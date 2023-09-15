@@ -1,0 +1,35 @@
+{
+  "name": "react-aws-s3",
+  "version": "1.0.0",
+  "description": "To upload files from system to aws-s3 bucket",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayank190821/react-aws-s3.git"
+  },
+  "keywords": [
+    "aws-s3",
+    "react-s3",
+    "react-aws-s3",
+    "react",
+    "aws",
+    "bucket."
+  ],
+  "author": "Mayank <bhugramayank@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mayank190821/react-aws-s3/issues"
+  },
+  "homepage": "https://github.com/mayank190821/react-aws-s3#readme",
+  "engines": {
+    "node": ">= 8.0.0"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1457.0",
+    "dotenv": "^16.3.1"
+  },
+  "type": "commonjs"
+}
